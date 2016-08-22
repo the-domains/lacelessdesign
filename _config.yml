@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8960574
+color:
+  saturation: 0.8780944
+  lightness: 0.8802319
+  brandStrength: 0.9910395
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#595959'
+    - '#CBCBCB'
+    - '#8F8F8F'
+  rhythmicContrast: 0.8296074
+name: lacelessdesign
